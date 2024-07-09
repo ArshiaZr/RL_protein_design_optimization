@@ -1,0 +1,9 @@
+flask
+streamlit
+stable-baselines3
+biopython
+pandas
+requests
+numpy
+gym
+shimmy>=0.2.1
